@@ -1,0 +1,19 @@
+{
+  "name": "konami-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malimichael/konami-code.git"
+  },
+  "author": "Mali Michael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malimichael/konami-code/issues"
+  },
+  "homepage": "https://github.com/malimichael/konami-code#readme"
+}
